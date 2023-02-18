@@ -1,13 +1,12 @@
-### Rocketship
+# Rocketship 
 
----
+### Processses 
 
-# Processs 
+***Learn***
+- [ ] <i><b>Markdown Syntax</i></b> ` In progress `
+- [ ] <i><b>Explore Version Control</i></b>  ` In progress `
+- [ ] <i><b>Explore Knowledge Bases</i></b>  ` In progress `
 
-***_Learn
-1. Markdown <mark>In Progress</mark>
-2. Explore Version Control <mark>In Progress</mark>
-
-***_Contribute
-1. Lyra Finance LEAP-45 <mark>In Progress</mark>
-2. Astar Network Hackathon <mark>In Progress</mark>
+***Contribute***
+1. Lyra Finance LEAP-45 ` In progress `
+2. Astar Network Hackathon ` In progress `
