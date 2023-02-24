@@ -8,7 +8,7 @@
 - [ ] <i><b>Explore Knowledge Bases</i></b>  ` In progress `
 - [ ] <i><b>Brew Basics</i></b> ` In progress `
 - [ ] <i><b>Rust Basics</i></b> ` In progress `
-- [ ] <i><b>Substrate Basics</i></> ` In progress `
+- [ ] <i><b>Substrate Basics</i></b> ` In progress `
 
 ***Contribute***
 1. Lyra Finance LEAP-45 ` In progress `
